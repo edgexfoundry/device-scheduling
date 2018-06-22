@@ -2,17 +2,17 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.edgexfoundry</groupId>
   <artifactId>device-scheduling</artifactId>
-  <version>0.5.0-SNAPSHOT</version>
+  <version>0.6.0-SNAPSHOT</version>
   <name>EdgeX Foundry reusable scheduling services</name>
   <description>EdgeX Foundry reusable scheduling services for SDK and resulting device services</description>
 
 	<properties>
 		<core-domain.version>0.5.0-SNAPSHOT</core-domain.version>
-		<core-test.version>0.5.0-SNAPSHOT</core-test.version>
+		<core-test.version>0.6.0-SNAPSHOT</core-test.version>
 		<support-logging-client.version>0.5.0-SNAPSHOT</support-logging-client.version>
 		<core-metadata-client.version>0.5.0-SNAPSHOT</core-metadata-client.version>
 		<core-exception.version>0.5.0-SNAPSHOT</core-exception.version>
-		<device-domain.version>0.5.0-SNAPSHOT</device-domain.version>
+		<device-domain.version>0.6.0-SNAPSHOT</device-domain.version>
 		<version>${spring-test.version}</version>
 		<gson.version>2.3.1</gson.version>
 		<spring-test.version>4.2.7.RELEASE</spring-test.version>
